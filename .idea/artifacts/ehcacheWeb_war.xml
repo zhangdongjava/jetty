@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ehcacheWeb:war">
+    <output-path>$PROJECT_DIR$/ehcacheWeb/target</output-path>
+    <root id="archive" name="ehcacheWeb.war">
+      <element id="artifact" artifact-name="ehcacheWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
